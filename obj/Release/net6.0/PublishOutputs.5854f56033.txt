@@ -1,0 +1,13 @@
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\SampleWebApp.exe
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\SampleWebApp.dll
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\SampleWebApp.deps.json
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\SampleWebApp.runtimeconfig.json
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\SampleWebApp.pdb
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sohai\ASP.NET WEB\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
